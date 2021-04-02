@@ -15,3 +15,6 @@
 - Supervised
   + [Progressive Self-Guided Loss for Salient Object Detection](https://arxiv.org/pdf/2101.02412.pdf)
   + [Global Context-Aware Progressive Aggregation Network for Salient Object Detection](https://arxiv.org/pdf/2003.00651.pdf)
+
+- Transformers
+  + [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
