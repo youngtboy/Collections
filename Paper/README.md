@@ -19,4 +19,6 @@
   + [Global Context-Aware Progressive Aggregation Network for Salient Object Detection](https://arxiv.org/pdf/2003.00651.pdf)
 
 - Transformers
+  + [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+  + [(DETR)End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
   + [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
