@@ -20,5 +20,7 @@
 
 - Transformers
   + [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+  + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+  + [(ViT) An image is worth 16X16 words: transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
   + [(DETR) End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
   + [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
