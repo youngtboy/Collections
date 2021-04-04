@@ -26,3 +26,6 @@
   + [(DETR) End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
   + [Non-local Neural Networks](https://arxiv.org/pdf/1711.07971.pdf)
   + [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
+
+- Knowledge Distillation
+  + [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
