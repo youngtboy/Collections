@@ -4,3 +4,5 @@
 
 - Course
   + [Hung-Yi LEE](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
+  + [mmdetection](https://github.com/open-mmlab/mmdetection)
+  + [mmsegmentaion](https://github.com/open-mmlab/mmsegmentation)
