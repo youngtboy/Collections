@@ -2,8 +2,8 @@
   + [Self-Supervised Representation Learning for RGB-D Salient Object Detection](https://arxiv.org/pdf/2101.12482.pdf)
   + [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf)
   + [Region Similarity Representation Learning](https://arxiv.org/pdf/2103.12902.pdf)
+  + [Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/pdf/2007.09886.pdf)  
   + [P4Contrast: Contrastive Learning with Pairs of Point-Pixel Pairs for RGB-D Scene Understanding](https://arxiv.org/pdf/2012.13089.pdf)
-  + [Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/pdf/2007.09886.pdf)
   + [Scaling and Benchmarking Self-Supervised Visual Representation Learning](https://arxiv.org/pdf/1905.01235.pdf)
   
 
@@ -20,6 +20,8 @@
   + [Global Context-Aware Progressive Aggregation Network for Salient Object Detection](https://arxiv.org/pdf/2003.00651.pdf)
 
 - Transformers
+  + [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
+    + [SETR (Github)](https://github.com/fudan-zvg/SETR)
   + [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
   + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
   + [(ViT) An image is worth 16X16 words: transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929.pdf)
@@ -29,9 +31,7 @@
     + [DeiT (Github)](https://github.com/facebookresearch/deit)
   + [(DETR) End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
   + [Non-local Neural Networks](https://arxiv.org/pdf/1711.07971.pdf)
-  + [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf)
-    + [SETR (Github)](https://github.com/fudan-zvg/SETR)
-
+ 
 - Few-Shot
   + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/pdf/1903.02351v1.pdf)
 
