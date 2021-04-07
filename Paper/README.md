@@ -1,7 +1,8 @@
 - Self-supervised
   + [Self-Supervised Representation Learning for RGB-D Salient Object Detection](https://arxiv.org/pdf/2101.12482.pdf)
   + [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf)
-  + [(CMC) Contrast Multiview Coding](https://arxiv.org/pdf/1906.05849.pdf)
+  + [(CMC) Contrastive Multiview Coding](https://arxiv.org/pdf/1906.05849.pdf)
+    + [CMC (Github)](https://github.com/HobbitLong/CMC) 
   + [Region Similarity Representation Learning](https://arxiv.org/pdf/2103.12902.pdf)
   + [Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/pdf/2007.09886.pdf)  
   + [P4Contrast: Contrastive Learning with Pairs of Point-Pixel Pairs for RGB-D Scene Understanding](https://arxiv.org/pdf/2012.13089.pdf)
