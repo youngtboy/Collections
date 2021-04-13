@@ -42,6 +42,9 @@
 - Few-Shot
   + [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/pdf/2104.01893.pdf)
   + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/pdf/1903.02351v1.pdf)
+  + [One-Shot Learning for Semantic Segmentation](https://arxiv.org/pdf/1709.03410.pdf)
+  + [PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment](https://arxiv.org/pdf/1908.06391.pdf)
+  + [Prior Guided Feature Enrichment Network for Few-Shot Segmentation](https://arxiv.org/pdf/2008.01449.pdf)
 
 - Knowledge Distillation
   + [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
