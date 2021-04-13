@@ -51,6 +51,9 @@
   + [Large Scale GAN Training For High Fidelity Natural Image Synthesis](https://arxiv.org/pdf/1809.11096.pdf)
   + [Progressive Growing Of GANS For Improved Quality,Stability,And Variation](https://arxiv.org/pdf/1710.10196.pdf)
   + [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/pdf/1606.00709.pdf)
+  + [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+  + [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)
+  + [Spectral Normalization Or For Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957.pdf)
 
 - Knowledge Distillation
   + [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
