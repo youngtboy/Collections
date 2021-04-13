@@ -8,6 +8,8 @@
     + [MoCo (Github)](https://github.com/facebookresearch/moco) 
   + [(SimCLR) A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
     + [SimCLR (Github)](https://github.com/google-research/simclr) 
+  + [Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2011.10043.pdf)
+    + [PixPro (Github)](https://github.com/zdaxie/PixPro) 
   + [Region Similarity Representation Learning](https://arxiv.org/pdf/2103.12902.pdf)
   + [Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/pdf/2007.09886.pdf)  
   + [P4Contrast: Contrastive Learning with Pairs of Point-Pixel Pairs for RGB-D Scene Understanding](https://arxiv.org/pdf/2012.13089.pdf)
