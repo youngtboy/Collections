@@ -40,6 +40,7 @@
   + [Non-local Neural Networks](https://arxiv.org/pdf/1711.07971.pdf)
  
 - Few-Shot
+  + [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/pdf/2104.01893.pdf)
   + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/pdf/1903.02351v1.pdf)
 
 - Knowledge Distillation
