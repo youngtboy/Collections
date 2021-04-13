@@ -49,7 +49,7 @@
 - GAN
   + [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
   + [Large Scale GAN Training for high fidelity natural image synthesis](https://arxiv.org/pdf/1809.11096.pdf)
-  + [Progressive Growing of GANS for improved quality,stability,and variation](https://arxiv.org/pdf/1710.10196.pdf)
+  + [Progressive growing of GANS for improved quality,stability,and variation](https://arxiv.org/pdf/1710.10196.pdf)
 
 - Knowledge Distillation
   + [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
